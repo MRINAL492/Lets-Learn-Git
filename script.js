@@ -3,4 +3,4 @@ let b = 7;
 
 let sum = a + b;
 
-console.log(sum);
+console.log("The sum of ",a," and ",b," is ", sum);
